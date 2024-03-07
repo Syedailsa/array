@@ -5,3 +5,4 @@ const names = [
 ];
 
 console.log(names[0]);
+console.log(names[2]);

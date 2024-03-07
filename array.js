@@ -4,3 +4,4 @@ var names = [
     "Miraal",
 ];
 console.log(names[0]);
+console.log(names[2]);
