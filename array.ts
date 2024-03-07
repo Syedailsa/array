@@ -1,8 +1,8 @@
-const names = [
-    "Ayesha",
-    "Zamal",
-    "Miraal",
+const transport = [
+    "bus",
+    "car",
+    "motorcycle",
 ];
-for (let name of names) {
-    console.log(`Hi there ${name}, welcome to the world of coding`)
-};
+transport.forEach (transport => {
+    console.log(`i like to travel through ${transport}`)
+});
