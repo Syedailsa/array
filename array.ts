@@ -1,8 +1,8 @@
-const transport = [
-    "bus",
-    "car",
-    "motorcycle",
+const guest = [
+    "ubaida",
+    "urooj",
+    "ali",
 ];
-transport.forEach (transport => {
-    console.log(`i like to travel through ${transport}`)
+guest.forEach (guest => {
+    console.log(`we would like to invite ${guest}, at the birthday party`)
 });
