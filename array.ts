@@ -3,6 +3,6 @@ const names = [
     "Zamal",
     "Miraal",
 ];
-
-console.log(names[0]);
-console.log(names[2]);
+for (let name of names) {
+    console.log(`Hi there ${name}, welcome to the world of coding`)
+};
